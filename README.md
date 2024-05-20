@@ -1,4 +1,4 @@
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm Kanis Fatema 👋
 
 As a Junior MERN Stack Developer, I'm enthusiastic about crafting dynamic web applications that make a difference. My journey in web development is driven by a passion for learning and a dedication to building efficient, user-friendly solutions.
 
