@@ -20,12 +20,12 @@ I'm currently diving deeper into:
 - **[Project Two](link):** An interactive platform for [describe the purpose]. Leveraged React hooks and context API for state management.
 
 ## 📊 GitHub at a Glance
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatema74&show_icons=true&theme=radical)
 
 ## 🤝 Connect with Me
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
-- [Personal Portfolio](your-website-url)
+- [LinkedIn](https://www.linkedin.com/in/kanisfatema7/)
+- [Twitter](#)
+- [Personal Portfolio](#)
 
 I thrive on collaboration and am always on the lookout for exciting projects and learning opportunities. Let's connect and create something amazing together!
 
