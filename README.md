@@ -4,7 +4,7 @@
 <img src="https://i.ibb.co/s3D2LmN/Hi.jpg" alt="Banner Image">
 
 
-## About Me
+## 🌱 About Me
 
 I'm a curious and enthusiastic Junior MERN Stack Developer turning ideas into reality through code. My journey in web development began with a simple "Hello, World!" and has evolved into creating dynamic, responsive web applications that solve real-world problems.
 
