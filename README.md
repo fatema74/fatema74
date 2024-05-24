@@ -1,6 +1,8 @@
 # Hi there! I'm Kanis Fatema 👋
 
-![Banner Image](https://avatars.githubusercontent.com/u/138345290?v=4)
+<!-- Full-width banner -->
+<img src="https://avatars.githubusercontent.com/u/138345290?v=4" alt="Banner Image" style="width: 100%; height: auto;">
+
 
 ## About Me
 
