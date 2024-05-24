@@ -1,6 +1,18 @@
 # Hi there! I'm Kanis Fatema 👋
 
-As a Junior MERN Stack Developer, I'm enthusiastic about crafting dynamic web applications that make a difference. My journey in web development is driven by a passion for learning and a dedication to building efficient, user-friendly solutions.
+![Banner Image](https://avatars.githubusercontent.com/u/138345290?v=4)
+
+## About Me
+
+I'm a curious and enthusiastic Junior MERN Stack Developer turning ideas into reality through code. My journey in web development began with a simple "Hello, World!" and has evolved into creating dynamic, responsive web applications that solve real-world problems.
+
+I thrive on the excitement of learning new technologies and applying them to build innovative solutions. My core expertise lies in the MERN stack (MongoDB, Express.js, React, and Node.js), and I am always eager to expand my skill set.
+
+Currently, I am exploring advanced React.js techniques, diving into TypeScript for enhanced code quality, and mastering Next.js for server-side rendering. I am committed to writing clean, efficient, and maintainable code, and continuously seeking opportunities to collaborate on exciting projects.
+
+When I'm not coding, you can find me [your hobby or interest], which helps me stay creative and motivated.
+
+Let's connect and create something amazing together!
 
 ## 🛠️ My Toolbox
 - **Front-end:** React.js, JavaScript, HTML, CSS
